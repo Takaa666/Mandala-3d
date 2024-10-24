@@ -5,10 +5,15 @@ ModelImporter:
   internalIDToNameTable: []
   externalObjects:
   - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: potongan 03
+    second: {fileID: 2100000, guid: dc2e1b570417c284cb59ff46635a634d, type: 2}
+  - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: potongan 03
-    second: {fileID: 2800000, guid: 7bf91c8ebac63c54f88a305705711528, type: 3}
+    second: {fileID: 2800000, guid: a18ee9d4b000b214d93b84052aa01922, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
